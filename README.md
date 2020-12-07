@@ -1,3 +1,12 @@
+# Notes for base 20.04 install
+
+If you were wondering how this computer does on Linux (5.4.0), I got some good news for you:
+Installation notes: disable secure boot and Intel Rapid Storage Technology as usual.
+Everything works as expected out of the box (Ubuntu 20.04 installer), except for the fingerprint reader and automatic brightness control. I am happy to report that the touchpad works really well.
+You'll want the 440.82 Nvidia driver, 435.21 doesn't recognize the discrete graphics card. PRIME works very well.
+
+
+
 # Ubuntu Focal Fossa 20.04 Setup on XPS 13 9300
 
 ```bash
