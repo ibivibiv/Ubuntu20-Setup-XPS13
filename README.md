@@ -60,3 +60,8 @@ Upgrade Ubuntu to 20.04 before executing this script.
 - VLC
 - GIMP
 
+
+
+## Notes for fixing (i.e. shutting of nivia card for now
+
+https://gist.github.com/deimi/e1dc28d3e4c6f267f500533be6ac126c
