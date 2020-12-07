@@ -5,6 +5,12 @@ Installation notes: disable secure boot and Intel Rapid Storage Technology as us
 Everything works as expected out of the box (Ubuntu 20.04 installer), except for the fingerprint reader and automatic brightness control. I am happy to report that the touchpad works really well.
 You'll want the 440.82 Nvidia driver, 435.21 doesn't recognize the discrete graphics card. PRIME works very well.
 
+OR
+
+This guy has some good stuff too!:
+
+https://medium.com/@asad.manji/my-journey-installing-ubuntu-20-04-on-the-dell-xps-15-9500-2020-8ac8560373d1
+
 
 
 # Ubuntu Focal Fossa 20.04 Setup on XPS 13 9300
