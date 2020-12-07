@@ -62,6 +62,10 @@ Upgrade Ubuntu to 20.04 before executing this script.
 
 
 
-## Notes for fixing (i.e. shutting of nivia card for now
+## Notes for fixing NVIDIA drivers
+
+https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux
+
+or you can shut them off
 
 https://gist.github.com/deimi/e1dc28d3e4c6f267f500533be6ac126c
